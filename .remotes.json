@@ -1,0 +1,8 @@
+[
+  {
+    "package": "SlidesTools",
+    "url": "https://github.com/igrave/SlidesTools",
+    "via": ["SlidesTools.flextable"],
+    "from": "SlidesTools.flextable"
+  }
+]
