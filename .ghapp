@@ -1,0 +1,10 @@
+{
+  "id": 53147713,
+  "created_at": "2024-07-25T07:49:59.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["SlidesTools.tables", "SlidesTools", "igrave.r-universe.dev"]
+}
