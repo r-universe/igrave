@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/igrave/igrave.r-universe.dev
 	branch = HEAD
-[submodule "SlidesTools"]
-	path = SlidesTools
-	url = https://github.com/igrave/SlidesTools
-[submodule "SlidesTools.flextable"]
-	path = SlidesTools.flextable
-	url = https://github.com/igrave/SlidesTools.tables
+[submodule "ladder"]
+	path = ladder
+	url = https://github.com/igrave/ladder
+[submodule "ladder.api"]
+	path = ladder.api
+	url = https://github.com/igrave/ladder.api
