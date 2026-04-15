@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/igrave/igrave.r-universe.dev
 	branch = HEAD
+[submodule "icsp2"]
+	path = icsp2
+	url = https://github.com/igrave/icsp2
 [submodule "ladder"]
 	path = ladder
 	url = https://github.com/igrave/ladder
